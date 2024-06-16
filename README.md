@@ -3,10 +3,10 @@ Diwali Sales Analysis of a store to analyze the data and help the store to impro
 
 # **Exploratory Data Analysis - Python**
 
-**1) Bar chart for Gender and it's count**
+**1) Bar chart for Gender and it's count** /n
 ![download](https://github.com/SanketPatil798/Diwali-Sales-Analysis-through-Python/assets/91628466/ebd2567f-e2f4-41e5-a5d1-49417a45c71b)
 
-**2) Bar chart for gender vs total amount**
+**2) Bar chart for gender vs total amount**/n
 ![download](https://github.com/SanketPatil798/Diwali-Sales-Analysis-through-Python/assets/91628466/e095a1fd-571c-4ecc-8dab-6edaf70166d7)
 
 #**From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men**
