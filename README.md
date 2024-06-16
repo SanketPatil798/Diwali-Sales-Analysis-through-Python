@@ -72,6 +72,7 @@ Diwali Sales Analysis of a store to analyze the data and help the store to impro
 ![download](https://github.com/SanketPatil798/Diwali-Sales-Analysis-through-Python/assets/91628466/7b9c1c92-07c3-4186-a69b-2d0fc48cfaad)
 
 #**Conclusion**
+
 Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
 #**Thank You!!!**
